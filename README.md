@@ -30,3 +30,25 @@ Akademik makaleler, bilimsel araştırmalar ve uygun resmî istatistikler.
 ## Proje Durumu
 
 Proje konusu belirlenmiştir. Literatür taraması ve uygun veri kaynaklarının belirlenmesi planlanmaktadır.
+
+## UML Diyagramları
+
+Projenin sistem yapısını ve çalışma aşamalarını açıklamak amacıyla üç UML diyagramı hazırlanmıştır.
+
+### 1. Use Case (Kullanım Durumu) Diyagramı
+
+Araştırmacının sistem içerisinde gerçekleştirebileceği işlemleri ve sistemle etkileşimlerini göstermektedir.
+
+![Use Case Diyagramı](use_case.jpg)
+
+### 2. Activity (Etkinlik) Diyagramı
+
+Araştırmanın konu seçiminden rapor hazırlanmasına kadar ilerleyen aşamalarını ve karar noktalarını göstermektedir.
+
+![Activity Diyagramı](activity.png)
+
+### 3. Class (Sınıf) Diyagramı
+
+Sistemde yer alan sınıfları, bu sınıfların özelliklerini, metotlarını ve birbirleriyle olan ilişkilerini göstermektedir.
+
+![Class Diyagramı](class.png)
