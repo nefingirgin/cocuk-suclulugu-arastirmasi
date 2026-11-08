@@ -29,7 +29,7 @@ Akademik makaleler, bilimsel araştırmalar ve uygun resmî istatistikler.
 
 ## Proje Durumu
 
-Proje konusu belirlenmiştir. Literatür taraması ve uygun veri kaynaklarının belirlenmesi planlanmaktadır.
+Proje konusu belirlenmiş, UML diyagramları hazırlanmış ve TÜİK verileri kullanılarak Python ile veri analizi ve görselleştirme çalışmaları gerçekleştirilmiştir.
 
 ## UML Diyagramları
 
