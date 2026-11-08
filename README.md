@@ -52,3 +52,29 @@ Araştırmanın konu seçiminden rapor hazırlanmasına kadar ilerleyen aşamala
 Sistemde yer alan sınıfları, bu sınıfların özelliklerini, metotlarını ve birbirleriyle olan ilişkilerini göstermektedir.
 
 ![Class Diyagramı](class.png)
+
+## Veri Analizi (6. Hafta)
+
+Bu aşamada çocuk suçluluğuna ilişkin TÜİK tarafından yayımlanan 2024-2025 yılı istatistikleri Python kullanılarak analiz edilmiştir.
+
+### Kullanılan Teknolojiler
+- Python
+- Pandas
+- Matplotlib
+- Google Colab
+
+### Yapılan Çalışmalar
+- TÜİK verileri CSV formatında aktarılmıştır.
+- Veri tabloları incelenmiş ve eksik değer kontrolü yapılmıştır.
+- Toplam olay sayısı, yıllık ortalama ve yüzde değişim hesaplanmıştır.
+- 2024 ve 2025 yıllarına ait veriler karşılaştırılmıştır.
+- İki farklı grafik oluşturulmuştur.
+- Analiz sonuçları CSV, grafikler PNG formatında kaydedilmiştir.
+
+### Veri Kaynağı
+Türkiye İstatistik Kurumu (TÜİK) – Güvenlik Birimine Gelen veya Getirilen Çocuk İstatistikleri (2024-2025).
+
+### Çalışma Sonuçları
+2025 yılında suça sürüklenme şüphesiyle güvenlik birimine getirilen çocuklara ilişkin olay sayısı, 2024 yılına göre yaklaşık %3,19 azalmıştır. Suç türlerine göre oranlar da karşılaştırılarak grafiklerle gösterilmiştir.
+
+Çalışma bireysel olarak yürütülmüştür.
